@@ -36,7 +36,7 @@ The steps are quite simple though:
 
   <pre style="word-wrap:break-word"><code>GET https://${account.namespace}/userinfo?access_token=2YotnF..........1zCsicMWpAA</code></pre>
 
-6. The `userinfo` endpoint will return something like this
+4. The `userinfo` endpoint will return something like this
 
   <pre><code>{
     "user_id": "google-oauth2|103547991597142817347",
